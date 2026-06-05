@@ -1,0 +1,30 @@
+
+# Dữ liệu thật KHÔNG ĐƯỢC commit
+data/raw/
+data/processed/
+
+# Models lớn
+models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Virtual Environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
