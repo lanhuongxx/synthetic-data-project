@@ -66,6 +66,7 @@ synthetic-data-project/
 | Credit Card Fraud | 284,807 |     0.17% | Dataset chính            |
 | Credit Default    |  30,000 |     28.4% | Kiểm chứng              |
 | Telco Churn       |   7,043 |     36.1% | Kiểm chứng (mixed-type) |
+| Online Shoppers   |  12,330 |     18.3% | Phu                       |
 
 ---
 
