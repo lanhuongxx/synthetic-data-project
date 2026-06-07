@@ -1,0 +1,77 @@
+{
+    "columns": {
+        "LIMIT_BAL": {
+            "sdtype": "numerical"
+        },
+        "SEX": {
+            "sdtype": "categorical"
+        },
+        "EDUCATION": {
+            "sdtype": "categorical"
+        },
+        "MARRIAGE": {
+            "sdtype": "categorical"
+        },
+        "AGE": {
+            "sdtype": "numerical"
+        },
+        "PAY_0": {
+            "sdtype": "categorical"
+        },
+        "PAY_2": {
+            "sdtype": "categorical"
+        },
+        "PAY_3": {
+            "sdtype": "categorical"
+        },
+        "PAY_4": {
+            "sdtype": "categorical"
+        },
+        "PAY_5": {
+            "sdtype": "categorical"
+        },
+        "PAY_6": {
+            "sdtype": "categorical"
+        },
+        "BILL_AMT1": {
+            "sdtype": "numerical"
+        },
+        "BILL_AMT2": {
+            "sdtype": "numerical"
+        },
+        "BILL_AMT3": {
+            "sdtype": "numerical"
+        },
+        "BILL_AMT4": {
+            "sdtype": "numerical"
+        },
+        "BILL_AMT5": {
+            "sdtype": "numerical"
+        },
+        "BILL_AMT6": {
+            "sdtype": "numerical"
+        },
+        "PAY_AMT1": {
+            "sdtype": "numerical"
+        },
+        "PAY_AMT2": {
+            "sdtype": "numerical"
+        },
+        "PAY_AMT3": {
+            "sdtype": "numerical"
+        },
+        "PAY_AMT4": {
+            "sdtype": "numerical"
+        },
+        "PAY_AMT5": {
+            "sdtype": "numerical"
+        },
+        "PAY_AMT6": {
+            "sdtype": "numerical"
+        },
+        "TARGET_DEFAULT": {
+            "sdtype": "categorical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}
